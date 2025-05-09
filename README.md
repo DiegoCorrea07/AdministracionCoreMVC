@@ -128,6 +128,12 @@ Esto garantiza integridad referencial y una mejor experiencia de usuario.
 
 ---
 
+## Enlace de página desplegada en render
+
+https://administracion-core-mvc-vr1.onrender.com
+
+---
+
 ## Contribución
 
 1. Fork el repositorio
@@ -135,6 +141,13 @@ Esto garantiza integridad referencial y una mejor experiencia de usuario.
 3. Haz commit: `git commit -m "Agrega nueva funcionalidad"`
 4. Push: `git push origin feature/nueva-funcionalidad`
 5. Abre un Pull Request
+
+---
+
+## Repositorios GitHub
+
+Backend: https://github.com/DiegoCorrea07/AdministracionCoreMVC.git
+Frontend: https://github.com/DiegoCorrea07/FrontendCoreAdmin.git
 
 ---
 
