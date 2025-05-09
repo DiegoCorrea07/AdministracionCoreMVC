@@ -146,8 +146,9 @@ https://administracion-core-mvc-vr1.onrender.com
 
 ## Repositorios GitHub
 
-Backend: https://github.com/DiegoCorrea07/AdministracionCoreMVC.git
-Frontend: https://github.com/DiegoCorrea07/FrontendCoreAdmin.git
+- **Backend:** https://github.com/DiegoCorrea07/AdministracionCoreMVC.git
+
+- **Frontend:** https://github.com/DiegoCorrea07/FrontendCoreAdmin.git
 
 ---
 
